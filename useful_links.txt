@@ -1,0 +1,6 @@
+https://console.cloud.google.com/datastore/setup?project=arya-test-auth
+https://console.cloud.google.com/firestore/data/Users/misingnoglic@gmail.com?project=arya-test-auth
+https://firebase.google.com/docs/database/admin/retrieve-data#python
+https://firebase.google.com/docs/database/rest/retrieve-data#filtering-by-a-specified-child-key
+https://firebase.google.com/docs/database/web/structure-data?authuser=0
+https://cloud.google.com/community/tutorials/building-flask-api-with-cloud-firestore-and-deploying-to-cloud-run
