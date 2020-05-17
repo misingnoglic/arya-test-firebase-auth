@@ -35,7 +35,7 @@ def get_thoughts(email, collection):
 
 if __name__ == '__main__':
     cred = firebase_admin.credentials.Certificate(
-        "secrets/key.json")
+        "project_secrets/firebase_key.json")
     firebase_admin.initialize_app(cred)
     client = firebase_admin.firestore.client()
     username_collection = client.collection('Users')
